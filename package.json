@@ -1,0 +1,13 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Neon Cycles - Multiplayer Light Cycle Arena",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "socket.io": "^4.8.4"
+  }
+}
